@@ -1,4 +1,3 @@
-# Adrift-at-sea
 <h1 align="center"><b>:game_die:	:hearts: Snaky : :game_die:	<br>
  </b></h1>
 <h2 align="center"><u><b>Built for a school subject, this is the repo of a terminal based snake game  EASY TO EXPAND GET CREATIVE GOING PUBLIC SOURCE SOON </u></b></h3>
@@ -30,14 +29,13 @@
   
 
    <h2><u><b> ♥️ Explaining the functions </b></u></h3> 
-   &bull; path - Makes a path <br>  
-
+   &bull; go_up(down,left,right...) - Makes the snake go up, left,... <br>  
+   &bull; move - Makes the snake move in the direction you want <br> 
 
    <h2><u><b> ♥️ Explaining the important variables (var) </b></u></h3> 
-   &bull; name - used all around the code, it contains the 1st player name <br>
-
-
-
+   &bull; wn.onkeypress - makes the snake move on keyboard press <br>
+   &bull; high_score - keeps the high score stored <br>
+   &bull; wn.setup - sets up the main window for the game <br>
 
   </p>
   
@@ -48,7 +46,7 @@
  
  <h2><u><b>Installation</u></b></h2>
  
- Install using git bash<code> $git clone https://github.com/monkeythatprograms/Adrift-at-sea </code><br>
+ Install using git bash<code> $git clone https://github.com/monkeythatprograms/Snaky </code><br>
  os click download button 👇 <br>
  <a href="https://github.com/monkeythatprograms/pythontic/raw/main/Finished3Game-consule.exe" target="blank"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/src/download_bt.png" alt="blank" height="78" width="200" /></a>
  
